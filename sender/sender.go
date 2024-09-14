@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"rabbitmq/helpers"
+	"github.com/gitkoDev/Go-RabbitMQ/helpers"
 
 	"github.com/rabbitmq/amqp091-go"
 )

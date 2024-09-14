@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"rabbitmq/helpers"
+
+	"github.com/gitkoDev/Go-RabbitMQ/helpers"
 
 	"github.com/rabbitmq/amqp091-go"
 )
